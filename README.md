@@ -1,5 +1,7 @@
 # ember-cli-deploy-corber
 
+[![Build Status](https://travis-ci.org/jelhan/ember-cli-deploy-zipalign.svg?branch=master)](https://travis-ci.org/jelhan/ember-cli-deploy-zipalign)
+
 Plugin for ember-cli-deploy to [zipalign](https://developer.android.com/studio/command-line/zipalign.html)
 an android build artifact.
 
