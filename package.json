@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-zipalign",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Plugin for ember-cli-deploy to zipalign an android build artifact.",
   "keywords": [
     "ember-addon",
